@@ -18,7 +18,7 @@ int prime(int num)
 int mainLoop()
 {
 	int calcTo;
-	calcTo = 100000000;
+	calcTo = 10000000;
 	printf("calcTo: %i\n",calcTo);
 	int primesFound = 2;
 	int currentNum = 1;
